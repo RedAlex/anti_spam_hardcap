@@ -10,7 +10,7 @@ after 1 minute the server erases the temporary ban
 2. Extract it with your favorite program.
 3. Copy the project to your ressource folder.
 4. Open config.lua with your favorite editor for configuration.
-5. Add "start esx_ownedcarthief" in your `server.cfg`
+5. Add "start anti_spam_hardcap" in your `server.cfg`
 6. Add # in front of hardcap like this "#start hardcap" in your `server.cfg`
 Exemple :
 ```
